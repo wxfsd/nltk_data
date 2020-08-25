@@ -8,7 +8,7 @@ The server used by the customer's development environment cannot connect to the 
 
 4. If you have any questions or other methods, please communicate in the comment area.
 
-5. Friend，Remember to point the star.
+
 
 客户的开发环境使用的服务器无法连接到外部网络，但是我们需要在此Linux服务器上使用NLTK，因为它无法连接到Internet，并且只能脱机安装。
 
@@ -19,5 +19,3 @@ The server used by the customer's development environment cannot connect to the 
 3.再次尝试，成功了！
 
 4.如果你还有问题或者其他的方法，欢迎在评论区交流。
-
-5. 朋友，记得点星哦
